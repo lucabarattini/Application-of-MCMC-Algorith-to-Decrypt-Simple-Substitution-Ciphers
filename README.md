@@ -52,39 +52,39 @@ python main.py
 
 <div align="center">
 
-<img src="Application of MCMC to decrypt subst cipher-01.png" width="100%" alt="Slide 1" />
+<img src="/img/Application of MCMC to decrypt subst cipher-01.png" width="100%" alt="Slide 1" />
 
 
 
-<img src="Application of MCMC to decrypt subst cipher-02.png" width="100%" alt="Slide 2" />
+<img src="/img/Application of MCMC to decrypt subst cipher-02.png" width="100%" alt="Slide 2" />
 
 
 
-<img src="Application of MCMC to decrypt subst cipher-03.png" width="100%" alt="Slide 3" />
+<img src="/img/Application of MCMC to decrypt subst cipher-03.png" width="100%" alt="Slide 3" />
 
 
 
-<img src="Application of MCMC to decrypt subst cipher-04.png" width="100%" alt="Slide 4" />
+<img src="/img/Application of MCMC to decrypt subst cipher-04.png" width="100%" alt="Slide 4" />
 
 
 
-<img src="Application of MCMC to decrypt subst cipher-05.png" width="100%" alt="Slide 5" />
+<img src="/img/Application of MCMC to decrypt subst cipher-05.png" width="100%" alt="Slide 5" />
 
 
 
-<img src="Application of MCMC to decrypt subst cipher-06.png" width="100%" alt="Slide 6" />
+<img src="/img/Application of MCMC to decrypt subst cipher-06.png" width="100%" alt="Slide 6" />
 
 
 
-<img src="Application of MCMC to decrypt subst cipher-07.png" width="100%" alt="Slide 7" />
+<img src="/img/Application of MCMC to decrypt subst cipher-07.png" width="100%" alt="Slide 7" />
 
 
 
-<img src="Application of MCMC to decrypt subst cipher-08.png" width="100%" alt="Slide 8" />
+<img src="/img/Application of MCMC to decrypt subst cipher-08.png" width="100%" alt="Slide 8" />
 
 
 
-<img src="Application of MCMC to decrypt subst cipher-09.png" width="100%" alt="Slide 9" />
+<img src="/img/Application of MCMC to decrypt subst cipher-09.png" width="100%" alt="Slide 9" />
 
 </div>
 
