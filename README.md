@@ -37,9 +37,9 @@ cd Application-of-MCMC-Algorith-to-Decrypt-Simple-Substitution-Ciphers
 ### 2. Setup Files:
 Ensure the following files are located in the root directory alongside main.py:
 
-📄 ciphertext.txt: The secret message you wish to decrypt.
+- 📄 ciphertext.txt: The secret message you wish to decrypt.
 
-📚 corpus.txt: Reference text used for language modeling (e.g., War and Peace, or a standard dictionary).
+- 📚 corpus.txt: Reference text used for language modeling (e.g., War and Peace, or a standard dictionary).
 
 ### 3. Run the Decryption:
 Execute the main script to start the MCMC process:
