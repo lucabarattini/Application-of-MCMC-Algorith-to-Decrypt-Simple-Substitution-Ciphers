@@ -30,8 +30,8 @@ The core logic relies on a custom `log_likelihood` function to score the "Englis
 
 #### 1. Clone the Repository:
 ```bash
-git clone [https://github.com/lucabarattini/YOUR-REPO-NAME.git](https://github.com/lucabarattini/YOUR-REPO-NAME.git)
-cd YOUR-REPO-NAME
+gh repo clone lucabarattini/Application-of-MCMC-Algorith-to-Decrypt-Simple-Substitution-Ciphers
+cd Application-of-MCMC-Algorith-to-Decrypt-Simple-Substitution-Ciphers
 ```
 
 ### 2. Setup Files:
