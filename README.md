@@ -91,6 +91,6 @@ python main.py
 ### 📬 Contact:
 For more info, feel free to reach out:
 
-📧 Simone: simone@dilorenzo.com
+📧 Simone: simone.dilorenzo@mail.polimi.it
 
 📧 Luca: lb3656@columbia.edu
